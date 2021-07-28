@@ -1,0 +1,28 @@
+.custom-bg-light{
+   background: #FFF9F4;
+}
+
+.custom-text-warning{
+    color: #FA804C;
+}
+
+.custom-text-secondary{
+    color: #363958;
+}
+
+.custom-text-dark{
+    color: #3C3C3C;
+}
+
+.custom-btn-primary{
+    background-image: linear-gradient(#3D4FF3 100%, #3543BC 100%);
+}
+
+.custom-bg-transperant{
+    background: hsla(0, 0%, 0%, 0.15);
+}
+
+.custom-img{
+    width: 334px;
+    height: 327px;
+}
